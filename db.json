@@ -1,25 +1,25 @@
 
 [
     {
-        id:1,
-        nombre:"Arnes",
-        imgUrl:"../img/arnesesPrinc.png",
-        stock:5,
-        precio:15000
+        "id":1,
+        "nombre":"Arnes",
+        "imgUrl":"../img/arnesesPrinc.png",
+        "stock":5,
+        "precio":15000
     },
     {
-        id:2,
-        nombre:"aseguradores",
-        imgUrl:"../img/aseguradoresPrinc.png",
-        stock:10,
-        precio:20000
+        "id":2,
+        "nombre":"aseguradores",
+        "imgUrl":"../img/aseguradoresPrinc.png",
+        "stock":10,
+        "precio":20000
     },
     {
-        id:3,
-        nombre:"pedulasPrinc",
-        imgUrl:"../img/pedulasPrinc.png",
-        stock:15,
-        precio:16000
+        "id":3,
+        "nombre":"pedulasPrinc",
+        "imgUrl":"../img/pedulasPrinc.png",
+        "stock":15,
+        "precio":16000
     }
 ]
 
